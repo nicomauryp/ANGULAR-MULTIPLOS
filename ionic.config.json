@@ -1,0 +1,7 @@
+{
+  "name": "numero-multiplos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
